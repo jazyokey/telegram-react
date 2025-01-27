@@ -83,3 +83,4 @@ The Docker build will perform all the necessary steps to get a working build of 
 
 1. [Deploying a React App (created using create-react-app) to GitHub Pages](https://github.com/gitname/react-gh-pages)
 2. [Facebook's tutorial on deploying a React app to GitHub Pages](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)
+banned telegram sign 
